@@ -6,11 +6,11 @@ This repository contains Java programs created as part of a programming test sub
 ## 📂 Folder Structure
 - PracticeTest/
   - src/
-    - GenerateSeries.java
-    - PatternPrinting.java
+    - Series.java
+    - Pattern.java
     - PrimeNumber.java
-    - SecondDuplicate.java
-    - SumOfSmallestNum.java
+    - Duplicate.java
+    - SumOfArrayElement.java
 
 ## 💻 Programs Included
 
